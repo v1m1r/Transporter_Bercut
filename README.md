@@ -1,1 +1,1 @@
-![alt text](http://url/to/Reload.PNG)
+![alt text](Reload.PNG)
