@@ -1,5 +1,5 @@
 **Основное осно программы**
-![alt text](Image/Main.PNG.PNG)
+![alt text](Image/Main.PNG)
 
 **Сбой при обработке детали**
 ![alt text](Image/Reload.PNG)
