@@ -5,7 +5,7 @@
 ![alt text](Image/Reload.PNG)
 
 **Вывод сообщения оператору**
-![alt text](Image/Вывод сообщения оператору.PNG)
+![alt text](Image/OperatorInfo.PNG)
 
 **Ошибка исправлена оператором, технологический цикл повторяется**
 ![alt text](Image/Цикл обработки повторяется.PNG)
